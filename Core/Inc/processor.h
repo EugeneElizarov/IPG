@@ -26,6 +26,10 @@ void Processor_Init(void);
 */
 uint16_t Processor_GetValue(bool real);
 
+/** @brief Функция получени флага готовности данных к отображению
+    @return true - усредненные за 1сек данные готовы 
+            false - данные не готовы
+*/
 bool Processor_DataAvailable(void);
 
 /** @brief Функция обратного вызова из прерывания окончания 

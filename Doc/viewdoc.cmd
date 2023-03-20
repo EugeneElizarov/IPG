@@ -1,2 +1,2 @@
 @echo off
-start html\index.html
+start %~d0"%~p0"html\index.html

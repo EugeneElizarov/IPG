@@ -62,7 +62,6 @@ PROJECT_BRIEF          = "автор Елизаров Евгений"
 # the logo to the output directory.
 
 PROJECT_LOGO           = ../Doc/Image/IPG_Photonics_w_Shadow.jpg
-PROJECT_LOGO           = ../Doc/Image/IPG_Photonics_w_Shadow.jpg
 
 # The OUTPUT_DIRECTORY tag is used to specify the (relative or absolute) path
 # into which the generated documentation will be written. If a relative path is
